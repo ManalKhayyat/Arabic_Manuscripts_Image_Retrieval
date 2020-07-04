@@ -5,4 +5,3 @@ The first developed model is a visual VGG19 customized deep convolutional neural
 The second model is a textual model utilizing the attentional BiLSTM deep learning model, including both attention and batch normalization layers, to classify the text extracted from the images and then retrieve the most similar images to the user query image.
 Finally, the VGG19 and the attentional BiLSTM models are fused at different fusion-levels to classify and retrieve the historical Arabic manuscripts’ images according to their both visual and textual characteristics.
 
-Link to the web-based image retrieval system: https://arabic-image-retrieval.com/
