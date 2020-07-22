@@ -9,5 +9,6 @@ Link to the web-based application: https://arabic-image-retrieval.com/
 
 
 M. Khayyat, and L. Elrefaei, “Manuscripts Image Retrieval Using Deep Learning Incorporating a Variety of Fusion Levels,” IEEE Access Journal, Jul. 2020. DOI: 10.1109/ACCESS.2020.3010882
+https://ieeexplore.ieee.org/document/9145565/authors#authors
 
 
