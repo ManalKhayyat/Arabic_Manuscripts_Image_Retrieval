@@ -6,7 +6,8 @@ The second model is a textual model utilizing the attentional BiLSTM deep learni
 Finally, the VGG19 and the attentional BiLSTM models are fused at different fusion-levels to classify and retrieve the historical Arabic manuscripts’ images according to their both visual and textual characteristics.
 
 Link to the web-based application: https://arabic-image-retrieval.com/
-This work is done by:
+
+
 M. Khayyat, and L. Elrefaei, “Manuscripts Image Retrieval Using Deep Learning Incorporating a Variety of Fusion Levels,” IEEE Access Journal, Jul. 2020. DOI: 10.1109/ACCESS.2020.3010882
 
 
