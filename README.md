@@ -8,7 +8,7 @@ Finally, the VGG19 and the attentional BiLSTM models are fused at different fusi
 Link to the web-based application: https://arabic-image-retrieval.com/
 
 
-M. Khayyat, and L. Elrefaei, “Manuscripts Image Retrieval Using Deep Learning Incorporating a Variety of Fusion Levels,” IEEE Access Journal, Jul. 2020. DOI: 10.1109/ACCESS.2020.3010882
+M. Khayyat, and L. Elrefaei, “Manuscripts Image Retrieval Using Deep Learning Incorporating a Variety of Fusion Levels,” IEEE Access Journal, vol. 8, pp. 136460 – 136486. 2020.
 https://ieeexplore.ieee.org/document/9145565/authors#authors
 
 
